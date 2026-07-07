@@ -132,14 +132,3 @@ https://leetcode.com/u/preethigajeganathan/
 > "Every bug is an opportunity to learn something new."
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
-
-
-
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Preethigajeganathan&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Preethigajeganathan&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Preethigajeganathan&theme=tokyonight)
