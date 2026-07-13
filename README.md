@@ -1,23 +1,51 @@
-# Hi 👋, I'm Preethiga J
+<h1 align="center">Hi 👋, I'm Preethiga J</h1>
 
-### Full Stack Developer | React Developer
+<h3 align="center">Full Stack Developer | React Developer 🚀</h3>
 
-I'm a passionate Full Stack Developer who enjoys building responsive and user-friendly web applications. I'm currently working as a **Junior Software Developer Trainee**, expanding my skills in modern web technologies and building real-world projects.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Preethigajeganathan&label=Profile%20views&color=0e75b6&style=flat" alt="Preethiga J" />
+</p>
 
-## 💻 Tech Stack
+---
 
-- **Languages:** HTML, CSS, JavaScript, Python
-- **Frontend:** React.js, Redux Toolkit, React Router, Tailwind CSS, Bootstrap
-- **Backend:** Node.js, Django
-- **Database:** MySQL, Firebase
-- **Tools:** Git, GitHub, VS Code, Postman
+## 👩‍💻 About Me
+
+- 💻 Passionate **Full Stack Developer** who enjoys building responsive and user-friendly web applications.
+- 🚀 Currently working as a **Junior Software Developer Trainee**.
+- 🌱 Currently learning **Express.js, MongoDB, Authentication & Authorization**.
+- 💡 Interested in building real-world projects using modern web technologies.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,react,redux,tailwind,bootstrap,nodejs,django,mysql,firebase,git,github,vscode" />
+</p>
+
+---
 
 ## 🚀 Featured Projects
 
-- 🍔 **Swiggy Clone** – React-based food ordering app with API integration, Redux, routing, search, filtering, and responsive UI.
-- 🌦 **Weather App** – Real-time weather application using OpenWeatherMap API.
-- 🔐 **Captcha Generator** – Dynamic captcha generation and validation using JavaScript.
-- ✅ **Form Validation** – Client-side form validation with real-time feedback.
+### 🍔 Swiggy Clone
+React-based food ordering application with:
+- API integration
+- Redux Toolkit
+- React Router
+- Search & filtering
+- Responsive UI
+
+---
+
+## 🌐 Deployment
+
+🚀 Projects deployed using:
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=vercel" />
+</p>
+
+---
 
 ## 🌱 Currently Learning
 
@@ -26,11 +54,36 @@ I'm a passionate Full Stack Developer who enjoys building responsive and user-fr
 - Authentication & Authorization
 - Full Stack Development
 
-## 📫 Connect with Me
+---
 
-- 📧 **Email:** Preethigajeganathan@gmail.com
-- 💼 **LinkedIn:** https://linkedin.com/in/preethiga-j-665a43286
-- 💻 **GitHub:** https://github.com/Preethigajeganathan
-- 🧩 **LeetCode:** https://leetcode.com/u/preethigajeganathan/
+## 📊 GitHub Stats
 
-⭐ *Always learning, building, and improving one project at a time.*
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Preethigajeganathan&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preethigajeganathan&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/Preethigajeganathan">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+
+<a href="https://linkedin.com/in/preethiga-j-665a43286">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+
+</p>
+
+📧 Email: **Preethigajeganathan@gmail.com**
+
+---
+
+⭐ Always learning, building, and improving one project at a time.
