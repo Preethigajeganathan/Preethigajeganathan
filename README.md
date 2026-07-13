@@ -70,19 +70,10 @@ React-based food ordering application with:
 
 ## 📫 Connect With Me
 
-<p align="left">
-
-<a href="https://github.com/Preethigajeganathan">
-<img src="https://skillicons.dev/icons?i=github" width="45"/>
-</a>
-
-<a href="https://linkedin.com/in/preethiga-j-665a43286">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-</a>
-
-</p>
-
-📧 Email: **Preethigajeganathan@gmail.com**
+- 📧 **Email:** Preethigajeganathan@gmail.com
+- 💼 **LinkedIn:** https://linkedin.com/in/preethiga-j-665a43286
+- 💻 **GitHub:** https://github.com/Preethigajeganathan
+- 🧩 **LeetCode:** https://leetcode.com/u/preethigajeganathan/
 
 ---
 
