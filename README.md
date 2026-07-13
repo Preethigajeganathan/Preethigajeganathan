@@ -37,16 +37,6 @@ React-based food ordering application with:
 
 ---
 
-## 🌐 Deployment
-
-🚀 Projects deployed using:
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=vercel" />
-</p>
-
----
-
 ## 🌱 Currently Learning
 
 - Express.js
