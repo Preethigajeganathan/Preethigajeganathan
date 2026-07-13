@@ -10,10 +10,11 @@
 
 ## 👩‍💻 About Me
 
-- 💻 Passionate **Full Stack Developer** who enjoys building responsive and user-friendly web applications.
+- 💻 Passionate **Full Stack Developer** building responsive and user-friendly web applications.
 - 🚀 Currently working as a **Junior Software Developer Trainee**.
+- ⚛️ Experienced in building applications using **React.js, Redux Toolkit, and modern frontend technologies**.
 - 🌱 Currently learning **Express.js, MongoDB, Authentication & Authorization**.
-- 💡 Interested in building real-world projects using modern web technologies.
+- 💡 Interested in creating real-world projects and improving my full-stack development skills.
 
 ---
 
@@ -27,8 +28,27 @@
 
 ## 🚀 Featured Projects
 
+### ▶️ YouTube Clone
+A React + Vite based YouTube clone application with a responsive user interface.
+
+**Tech Used:**
+- React.js
+- Vite
+- JavaScript
+- CSS
+- API Integration
+
+🔗 Repository:
+https://github.com/Preethigajeganathan/Youtube-Clone
+
+🔗 Live Demo:
+https://youtube-clone-d28yqb3sn-preethiga.vercel.app/
+
+---
+
 ### 🍔 Swiggy Clone
 React-based food ordering application with:
+
 - API integration
 - Redux Toolkit
 - React Router
@@ -37,10 +57,23 @@ React-based food ordering application with:
 
 ---
 
+### 🌦 Weather App
+
+Real-time weather application using OpenWeatherMap API.
+
+---
+
+### 🔐 Captcha Generator
+
+Dynamic captcha generation and validation using JavaScript.
+
+---
+
 ## 🌱 Currently Learning
 
 - Express.js
 - MongoDB
+- Java
 - Authentication & Authorization
 - Full Stack Development
 
@@ -50,10 +83,6 @@ React-based food ordering application with:
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Preethigajeganathan&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preethigajeganathan&layout=compact&theme=tokyonight" />
 </p>
 
 ---
